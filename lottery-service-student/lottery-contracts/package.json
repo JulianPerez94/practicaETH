@@ -9,7 +9,7 @@
   "author": "@Master UCM - Práctiva desarrollo dApp con ETH",
   "main": "truffle-config.js",
   "dependencies": {
-    "truffle": "^5.1.18",
+    "truffle": "^5.7.9",
     "ganache-cli": "^6.9.1"
   },
   "scripts": {
